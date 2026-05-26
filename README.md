@@ -26,7 +26,11 @@ This project was created to spread awareness about the social initiatives and ca
  https://shubhamvish8108-del.github.io/ngoWebPage/
 
 ## 📷 Screenshots
+### Homepage
+![Homepage](screenshort.png.png)
 
+### Projects Section
+![Projects](screenshort2.png.png)
 
 ## 📬 Connect With InAmigos Foundation
 
