@@ -1,4 +1,3 @@
-# ngoWebPage
 # InAmigos NGO Awareness Webpage
 
 A responsive NGO awareness webpage created using HTML and CSS to spread awareness about InAmigos Foundation and its social initiatives.
